@@ -1,0 +1,5 @@
+﻿  PacMan.cpp
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Масив\PacMan2\PacMan\PacMan.cpp(71,5): error C2065: 'count': undeclared identifier
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Масив\PacMan2\PacMan\PacMan.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Масив\PacMan2\PacMan\PacMan.cpp(114,3): error C2065: 'prev': undeclared identifier
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Масив\PacMan2\PacMan\PacMan.cpp(133,3): error C2065: 'cout': undeclared identifier
